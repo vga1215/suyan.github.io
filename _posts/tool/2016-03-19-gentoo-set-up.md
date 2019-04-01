@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Gengoo系统安装
+title: Gentoo系统安装
 category: 工具
-tags: Gengoo
-keywords: Gengoo
-description: Gengoo,面朝大海，春暖花开
+tags: Gentoo
+keywords: Gentoo
+description: Gentoo,面朝大海，春暖花开
 ---
-###Gengoo,面朝大海，春暖花开###
+###Gentoo,面朝大海，春暖花开###
 
 #Handbook refence https://wiki.gentoo.org/wiki/Handbook:AMD64/Full/Installation
 
