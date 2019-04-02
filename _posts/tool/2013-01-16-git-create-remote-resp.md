@@ -45,6 +45,8 @@ git创建版本库及第一次提交
 cd ~/.ssh 
 chmod 700 id_rsa
 
+多人开发版本有变动时，PUSH之前一定要git pull
+
 >8.使用Github Pages存放并显示自己的网页.
 如在在github上建一个vga1215/vga1215.github.io版本
 
@@ -65,6 +67,8 @@ Update: If you only want to add deleted files, try:
 </div>
 
 <http://gitref.org/index.html>
+
+[Git 多人协作开发的过程](https://www.cnblogs.com/onelikeone/p/6857910.html)
 
 ##查看、添加、提交、删除、找回，重置修改文件
 
